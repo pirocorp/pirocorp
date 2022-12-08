@@ -6,9 +6,12 @@
 	
 ### GitHub Trophies
 	
-	
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=pirocorp&rank=-C,-B&margin-w=48" alt="GitHub Trophies" />
+
 	
+### Stuff
+	
+- [Simple Clean Architecture](https://github.com/pirocorp/Simple-Clean-Architecture/tree/simple-clean-architecture-no-cqrs-no-ddd) - with **NO** CQRS and DDD. Highlights the difrences between n-layer and Clean/Hexagon/Onion architectures.
 
 <!--
 **pirocorp/pirocorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
