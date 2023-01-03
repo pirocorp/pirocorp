@@ -11,7 +11,7 @@
 	
 ### Stuff
 	
-- [Simple Clean Architecture](https://github.com/pirocorp/Simple-Clean-Architecture/tree/simple-clean-architecture-no-cqrs-no-ddd) - with **NO** CQRS and DDD. Highlights the difrences between n-layer and Clean/Hexagon/Onion architectures.
+- [Simple Clean Architecture Examples](https://github.com/pirocorp/Simple-Clean-Architecture/tree/main) - Highlights the difrences between n-layer and Clean/Hexagon/Onion architectures.
 
 <!--
 **pirocorp/pirocorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
