@@ -11,7 +11,7 @@
 	
 ### Some Stuff
 	
-- [Object Oriented Design]([https://github.com/pirocorp/Simple-Clean-Architecture](https://github.com/pirocorp/Object-Oriented-Design))
+- [Object Oriented Design](https://github.com/pirocorp/Object-Oriented-Design)
 
 <!--
 **pirocorp/pirocorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
