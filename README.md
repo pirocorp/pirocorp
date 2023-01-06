@@ -9,10 +9,9 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=pirocorp&rank=-C,-B&margin-w=48" alt="GitHub Trophies" />
 
 	
-### Highlights the differences between n-layer and Clean/Hexagon/Onion architectures. And the easiest way to transition between them.
+### Some Stuff
 	
-- [Simple Clean Architecture Examples](https://github.com/pirocorp/Simple-Clean-Architecture) 
-- [Simple N-Layer Architecture Examples](https://github.com/pirocorp/Simple-nLayer-Architecture)
+- [Object Oriented Design]([https://github.com/pirocorp/Simple-Clean-Architecture](https://github.com/pirocorp/Object-Oriented-Design))
 
 <!--
 **pirocorp/pirocorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
