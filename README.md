@@ -5,7 +5,7 @@
 	<br/>
 
 <a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/ce30f22f-3b4a-4a0d-afed-113eafd1419e?view=html">
-    <img src="https://img.shields.io/badge/europass-CV-bc3df2?style=flat-square&logo=eu">
+    <img src="https://img.shields.io/badge/📝%20europass%20-CV-bc3df2?style=flat-square">
 </a>  
 <a href="https://www.linkedin.com/in/piromanabg/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
