@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/pirocorp">
-	    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=330&height=80&lines=Zdravko+Zdravkov;Software+Engineer+%7C+.NET Enthusiast;Web+Development+%7C+Software+Development" alt="Typing SVG" />
+	    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1500&multiline=true&width=350&height=80&lines=Zdravko+Zdravkov;Software+Engineer+%7C+.NET Enthusiast;Web+Development+%7C+Software+Development" alt="Typing SVG" />
 	</a>
 </p>
 
