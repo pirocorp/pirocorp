@@ -39,6 +39,7 @@
 ### Some Stuff
 	
 - [Object Oriented Design](https://github.com/pirocorp/Object-Oriented-Design)
+- [DDD Workshop](https://github.com/pirocorp/DDD-Workshop)
 
 
 ### Coding & Listening to:
