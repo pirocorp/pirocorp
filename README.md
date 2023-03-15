@@ -24,7 +24,7 @@
 
 
 
-| <a href="https://softuni.bg/certificates/details/122857/7061e5d6"><img src="https://user-images.githubusercontent.com/34960418/205524752-cbf52180-2a41-4a0a-be17-5419b28d3bd5.png" alt="MCSA Certificate" width="200"/><a/> | <a href="https://www.credly.com/badges/8c4df249-b3ad-48c8-8640-ea6e12b8d560"><img src="https://user-images.githubusercontent.com/34960418/205523950-f16ef739-e365-460e-8237-d6d558ec5baf.png" alt="MCSA Certificate" width="200"/><a/>  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirocorp&layout=compact&hide_border=true" /> |
+| <a href="https://softuni.bg/certificates/details/122857/7061e5d6"><img src="https://user-images.githubusercontent.com/34960418/205524752-cbf52180-2a41-4a0a-be17-5419b28d3bd5.png" alt="MCSA Certificate" width="200"/><a/> | <a href="https://www.credly.com/badges/8c4df249-b3ad-48c8-8640-ea6e12b8d560"><img src="https://user-images.githubusercontent.com/34960418/205523950-f16ef739-e365-460e-8237-d6d558ec5baf.png" alt="MCSA Certificate" width="200"/><a/>  | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pirocorp&layout=compact&hide_border=true" /> |
 | ------------- | ------------- | ------------- |
 	
 <details>
