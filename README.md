@@ -11,7 +11,7 @@
 [![Europass](https://img.shields.io/badge/📝%20europass%20-CV-bc3df2?style=flat-square)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/da9c5507-e1e2-4d7b-b899-aba2d97fd4f4?view=html)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piromanabg/) 
 [![Email](https://img.shields.io/badge/-Email-bc3df2?style=flat-square&logo=yahoo&logoColor=white)](mailto:zdr0@yahoo.com) 
-![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=pirocorp)	
+<!-- ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=pirocorp) -->	
 	
 </div>
 
@@ -43,9 +43,9 @@
 
 
 ### Coding & Listening to:
-	
+<!--	
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11143588154&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
+-->
 <!--
 **pirocorp/pirocorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
