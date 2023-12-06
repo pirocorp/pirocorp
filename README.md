@@ -40,6 +40,7 @@
 	
 - [Object Oriented Design](https://github.com/pirocorp/Object-Oriented-Design)
 - [DDD Workshop](https://github.com/pirocorp/DDD-Workshop)
+- [Web APIs](https://github.com/pirocorp/Web-APIs)
 	
 ### Coding & Listening to:
 
